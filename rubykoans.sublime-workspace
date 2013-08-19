@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"return",
+				"return_value"
+			],
+			[
+				"Wrong",
+				"WrongNumberOfArguments"
+			],
+			[
 				"end",
 				"end"
 			]
@@ -11,14 +19,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "about_regular_expressions.rb",
-			"settings":
-			{
-				"buffer_size": 4771,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -44,6 +44,8 @@
 	},
 	"file_history":
 	[
+		"/Users/jamesjoshuahill/ruby/rubykoans/about_methods.rb",
+		"/Users/jamesjoshuahill/ruby/rubykoans/about_regular_expressions.rb",
 		"/Users/jamesjoshuahill/.rvm/gems/ruby-2.0.0-p247/gems/watchr-0.7/lib/watchr.rb",
 		"/Users/jamesjoshuahill/a.txt"
 	],
@@ -80,37 +82,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "about_regular_expressions.rb",
-					"settings":
-					{
-						"buffer_size": 4771,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3076,
-								3076
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1526.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
